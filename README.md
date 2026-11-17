@@ -4,7 +4,9 @@
 This game is a game built using fish, there are no UI screens or anything, the game runs completely in the terminal!
 
 # Gallery
-Game when loaded up <img width="761" height="392" alt="image" src="https://github.com/user-attachments/assets/ce030f34-327a-4b2b-861b-bc331189d7c6" />
+Game when loaded up 
+
+<img width="761" height="392" alt="image" src="https://github.com/user-attachments/assets/ce030f34-327a-4b2b-861b-bc331189d7c6" />
 
 
 
