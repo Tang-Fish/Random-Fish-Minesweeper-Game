@@ -7,11 +7,14 @@ This game is a game built using fish, there are no UI screens or anything, the g
 <img width="761" height="392" alt="image" src="https://github.com/user-attachments/assets/ce030f34-327a-4b2b-861b-bc331189d7c6" />
 Game when loaded up
 
+
 <img width="752" height="401" alt="image" src="https://github.com/user-attachments/assets/76de2b65-f38a-4cf0-a9d0-39f565e621f1" />
 Placing flags
 
+
 <img width="761" height="428" alt="image" src="https://github.com/user-attachments/assets/eb62f3ff-6a63-4c7c-bb10-c5ec7a71be03" />
 Gameplay
+
 
 <img width="795" height="431" alt="image" src="https://github.com/user-attachments/assets/c027a857-d927-4ca6-bb70-389028497e7a" />
 Exploding a bomb
